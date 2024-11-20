@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Local",
+    "method": "GET",
+    "requests": 1,
+    "duration": 1.121924292,
+    "rps": 0.8913257401863974,
+    "avg_latency": 1121860480,
+    "max_latency": 1121860480,
+    "min_latency": 1121860480
+  }
+]

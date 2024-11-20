@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Local",
+        "method": "GET",
+        "uri": "http://192.168.1.37:8000/api/articulos/rendimientos/?page=1&hasta=2024-11-19&desde=2024-01-01&proveedor=&rendimiento=&id_repuesto_proveedor=",
+        "headers": {
+            "Accept": "application/json"
+        },
+        "body": {},
+        "requests": 1,
+        "concurrency": 1
+    }
+    
+]
